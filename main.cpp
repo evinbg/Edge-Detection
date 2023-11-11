@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#define HEIGHT 500
+#define HEIGHT 750
 #define WIDTH 750
 #define THRESHOLD 24 // edit this to change the edge detection sensitivity (lower = more edges will be detected)
 
