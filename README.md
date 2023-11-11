@@ -1,5 +1,5 @@
-# Edge-Detection
-C++ program that takes a raw image and performs edge detection
+# Edge Detection
+A C++ program that takes a raw image and performs edge detection
 
 ## What it does
 This program does matrix operations on the image using both 3x3 and 5x5 sobel operators to generate a gradient magnitude image. <br><br>
