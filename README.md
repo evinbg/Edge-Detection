@@ -2,8 +2,8 @@
 C++ program that takes a raw image and performs edge detection
 
 ## What it does
-This program does matrix operations on the image using both 3x3 and 5x5 sobel operators to generate a gradient magnitude image.<br>
-This gradient magnitude image is then used to do perform an algorithm that detects the edges of the image within a certain threshold.
+This program does matrix operations on the image using both 3x3 and 5x5 sobel operators to generate a gradient magnitude image. <br><br>
+This gradient magnitude image is then used to perform an algorithm that detects the edges of the image within a certain threshold.
 
 ## Execution
 Before executing the program, you must make sure that you have a raw image file named "image.raw" in <br>
